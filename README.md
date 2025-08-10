@@ -89,7 +89,7 @@
 ##  Как запустить проект
 ```bash
 # Клонируем репозиторий
-git clone https://github.com/maximus2012/car_price.git
+git clone [https://github.com/maximus2012/car_price.git](https://github.com/Maximus2012/Car_price.git)
 cd project_name
 
 # Устанавливаем зависимости
