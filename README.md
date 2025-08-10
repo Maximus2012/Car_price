@@ -89,8 +89,8 @@
 ##  Как запустить проект
 ```bash
 # Клонируем репозиторий
-git clone [https://github.com/maximus2012/car_price.git](https://github.com/Maximus2012/Car_price.git)
-cd project_name
+git clone https://github.com/Maximus2012/Car_price.git
+cd Car_price
 
 # Устанавливаем зависимости
 pip install -r requirements.txt
