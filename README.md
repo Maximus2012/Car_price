@@ -76,7 +76,8 @@
 ##  Примеры визуализаций
 
 **Матрица корреляций:**
-![Correlation Matrix](images/correlation_matrix.png)
+![Correlation Matrix]<img width="494" height="497" alt="image" src="https://github.com/user-attachments/assets/17fa7341-e6db-4b4c-98f8-982532fd635f" />
+
 
 **Распределение цен:**
 ![Price Distribution](images/price_distribution.png)
