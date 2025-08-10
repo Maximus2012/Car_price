@@ -76,14 +76,13 @@
 ##  Примеры визуализаций
 
 **Матрица корреляций:**
-![Correlation Matrix](<img width="494" height="497" alt="image" src="https://github.com/user-attachments/assets/17fa7341-e6db-4b4c-98f8-982532fd635f" />)
+<img width="494" height="497" alt="image" src="https://github.com/user-attachments/assets/17fa7341-e6db-4b4c-98f8-982532fd635f" />
 
 
 **Распределение цен:**
-![Price Distribution](images/price_distribution.png)
+<img width="1496" height="778" alt="image" src="https://github.com/user-attachments/assets/d276c8bc-a8a2-4f83-bef2-787f29618157" />
 
-**Сравнение предсказанных и фактических значений:**
-![Predictions vs Actual](images/pred_vs_actual.png)
+
 
 ---
 
